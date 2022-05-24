@@ -52,13 +52,7 @@
           }
         ]
       },
-      "scheme": "file",
-      "stats": {
-        "hash": "13787a97437525dcc269a0857d9f7a33",
-        "bytes": 244648,
-        "fields": 8,
-        "rows": 2853
-      }
+      "scheme": "file"
     }
   ]
 }
