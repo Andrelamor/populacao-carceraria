@@ -18,6 +18,7 @@ resources:
         - name: codigo
           type: integer
         - name: estabelecimento_prisional
+          title: Estabelecimento Prisional
           type: string
         - name: sexo
           type: string
